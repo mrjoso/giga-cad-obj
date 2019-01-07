@@ -34,7 +34,7 @@ gcc objconv.c -o objconv
 ## Limitations (Known Issues)
 
  * If the original object contain polygon with hole or multipolygon the bridge edge is created and is added to the same face definition.
-Giga-CAD Plus does not differentiate inner and outer rings so this solution has problems and may produce incorrect faces (self intersecting etc.)
+Giga-CAD Plus does not differentiate inner and outer rings so this solution has problems and may produce incorrect faces (self intersecting etc.), fixing the object is necessary any way
  * The surface geometry need to be "watertight" to be 3D printable
  * Giga-CAD Plus does not handle face orientation (face normals), you need to flip the faces to the right direction
  * The X axis of the whole object is flipped against the display view in Giga-CAD Plus screen 
