@@ -10,7 +10,7 @@ It enables you to create mesh objects, render the scene and create films.
 Once you know how to use it, you would never go back to your current 3D creation software. :-)       
 
 The objconv tool was created with [3D printing](https://github.com/mrjoso/giga-cad-obj/blob/master/photos/canon-obj.jpg) in mind. There are only few steps to 3D print your designs created in Giga-CAD Plus.
-Original idea was to create STL converter, but later was changed to more easy solution which enables you to import the 3D mesh object 
+Original idea was to create STL converter, but later was changed to more simple solution which enables you to import the 3D mesh object 
 to any suitable software for 3D editing and STL conversion e.g. MeshLab, Netfabb Basic, 3D Builder, Blender etc.   
 You need to convert the Giga-CAD Plus object file to file format which is known to that tools.
 I have chosen the output format Wavefront OBJ file.
@@ -24,7 +24,7 @@ I have chosen the output format Wavefront OBJ file.
 ```bash
 gcc objconv.c -o objconv
 ```
- * You should try to cross compile under cc65 for C64 
+ * Cross compilation under cc65 for C64 would require to avoid float variables
 
 ## Usage
 
