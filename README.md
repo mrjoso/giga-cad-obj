@@ -43,6 +43,7 @@ Giga-CAD Plus does not differentiate inner and outer rings so this solution has 
 
  * The repository contain test [object](https://github.com/mrjoso/giga-cad-obj/blob/master/photos/torus-10-20sm.png) ob.torus-10-20.seq
 created in Giga-CAD Plus to test the converter.
+![Torus](photos/torus-10-20sm.png)
 ---
 
 *If you like the tool, please let me know about your experience. You can find the contact in the source code*
