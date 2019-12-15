@@ -48,8 +48,11 @@ Giga-CAD Plus does not differentiate inner and outer rings so this solution has 
 
 I have just found another project, this time in Python
 
-https://github.com/JensRestemeier/ConvertGigaCadPlus
+[ConvertGigaCadPlus](https://github.com/JensRestemeier/ConvertGigaCadPlus)
 
+## Giga-CAD Plus Beginner Tutorial
+
+[![Giga-CAD Beginner Tutorial](http://img.youtube.com/vi/MrE9fBS_HqM/0.jpg)](https://www.youtube.com/playlist?list=PLjvgODrW5LCk4seDjgjhdnZB-NPqU7woB "Giga-CAD Beginner Tutorial")
 ---
 
 *If you like the tool, please let me know about your experience. You can find the contact in the source code*
